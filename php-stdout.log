@@ -1,0 +1,224 @@
+Could not open input file: artisan
+Could not open input file: artisan
+Could not open input file: artisan
+Could not open input file: artisan
+Could not open input file: artisan
+Could not open input file: artisan
+Could not open input file: artisan
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 19:50:58 / .......................................... ~ 500.33ms
+  2025-05-24 19:50:58 /resources/css/app.css ....................... ~ 0.02ms
+  2025-05-24 19:50:58 /resources/js/app.js ....................... ~ 500.37ms
+  2025-05-24 19:50:58 /node_modules/vite/dist/client/env.mjs ....... ~ 0.02ms
+  2025-05-24 19:51:06 /resources/css/app.css ....................... ~ 0.06ms
+  2025-05-24 19:51:06 / ............................................ ~ 0.07ms
+  2025-05-24 19:51:07 /resources/js/app.js ....................... ~ 500.31ms
+  2025-05-24 19:51:07 /resources/css/app.css ....................... ~ 0.02ms
+  2025-05-24 19:51:07 /node_modules/vite/dist/client/env.mjs ....... ~ 0.01ms
+  2025-05-24 19:52:25 / ............................................ ~ 0.54ms
+  2025-05-24 19:52:35 /admin ..................................... ~ 500.31ms
+  2025-05-24 19:52:41 /dashboard ................................... ~ 0.07ms
+  2025-05-24 19:52:41 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 19:54:17 /dashboard/home ............................ ~ 500.30ms
+  2025-05-24 19:56:16 /dashboard/home .............................. ~ 0.09ms
+  2025-05-24 19:56:23 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 19:56:27 /dashboard/home ............................ ~ 500.27ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 19:57:06 /dashboard/home .............................. ~ 0.10ms
+  2025-05-24 19:57:07 /dashboard/home ............................ ~ 500.34ms
+  2025-05-24 19:57:30 /dashboard/home ............................ ~ 500.28ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 19:57:46 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 19:57:48 /dashboard/home ............................ ~ 500.23ms
+  2025-05-24 19:58:25 /dashboard/home .............................. ~ 0.08ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 19:58:53 /dashboard/home ............................ ~ 500.24ms
+  2025-05-24 19:59:14 /dashboard/home ............................ ~ 500.37ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 19:59:37 /dashboard/home ............................ ~ 500.34ms
+  2025-05-24 19:59:40 /dashboard/home .............................. ~ 0.07ms
+  2025-05-24 19:59:47 /dashboard ................................. ~ 500.29ms
+  2025-05-24 19:59:47 /dashboard/home .............................. ~ 0.03ms
+  2025-05-24 19:59:59 /dashboard/home ............................ ~ 500.28ms
+  2025-05-24 20:00:00 /dashboard/home ............................ ~ 500.27ms
+  2025-05-24 20:00:36 /dashboard/home .............................. ~ 0.07ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:01:07 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 20:01:51 /dashboard/home ............................ ~ 500.36ms
+  2025-05-24 20:02:13 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 20:02:35 /dashboard/home .............................. ~ 0.06ms
+  2025-05-24 20:02:42 /dashboard/home .............................. ~ 0.06ms
+  2025-05-24 20:02:43 /dashboard/home ............................ ~ 500.27ms
+  2025-05-24 20:02:46 / ............................................ ~ 0.06ms
+  2025-05-24 20:02:53 /dashboard/home .............................. ~ 0.09ms
+  2025-05-24 20:02:54 /dashboard/home .............................. ~ 0.07ms
+  2025-05-24 20:03:03 / ............................................ ~ 0.08ms
+  2025-05-24 20:04:57 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 20:04:58 /dashboard/home .............................. ~ 0.08ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:05:30 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 20:05:37 /dashboard/companies ............................. ~ 1s
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:07:30 /dashboard/companies ............................. ~ 1s
+  2025-05-24 20:07:31 /dashboard/companies ............................. ~ 1s
+  2025-05-24 20:07:53 /favicon.ico ................................. ~ 0.09ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:09:52 /dashboard/companies ....................... ~ 500.42ms
+  2025-05-24 20:09:52 /storage/company-logos/01JW1MWQPPA5FN1NAQPWPR9J04.jpg  ~ 0.04ms
+  2025-05-24 20:09:53 /dashboard/companies ......................... ~ 0.09ms
+  2025-05-24 20:09:56 /dashboard/home .............................. ~ 0.09ms
+  2025-05-24 20:09:58 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 20:10:22 /dashboard/home .............................. ~ 0.09ms
+  2025-05-24 20:10:25 /dashboard/companies ....................... ~ 500.35ms
+  2025-05-24 20:10:26 /dashboard/projects ........................ ~ 500.35ms
+  2025-05-24 20:10:27 /dashboard/companies ......................... ~ 0.09ms
+  2025-05-24 20:10:27 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 20:10:45 /dashboard/home ............................ ~ 500.31ms
+  2025-05-24 20:10:50 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 20:10:51 /dashboard/home .............................. ~ 0.11ms
+  2025-05-24 20:11:11 /dashboard/home ............................ ~ 500.31ms
+  2025-05-24 20:11:21 /dashboard/home ............................ ~ 500.32ms
+  2025-05-24 20:11:22 /dashboard/home .............................. ~ 0.09ms
+  2025-05-24 20:11:58 /dashboard/home .............................. ~ 0.10ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:14:16 /dashboard/home ............................ ~ 500.32ms
+  2025-05-24 20:14:17 /css/filament/support/support.css?v=3.3.16.0 . ~ 0.02ms
+  2025-05-24 20:14:17 /css/filament/filament/app.css?v=3.3.16.0 .... ~ 0.01ms
+  2025-05-24 20:14:17 /js/filament/notifications/notifications.js?v=3.3.16.0  ~ 0.01ms
+  2025-05-24 20:14:17 /js/filament/support/support.js?v=3.3.16.0 ... ~ 0.01ms
+  2025-05-24 20:14:17 /css/filament/forms/forms.css?v=3.3.16.0 ..... ~ 0.01ms
+  2025-05-24 20:14:17 /js/filament/filament/echo.js?v=3.3.16.0 ..... ~ 0.01ms
+  2025-05-24 20:14:17 /js/filament/filament/app.js?v=3.3.16.0 ...... ~ 0.08ms
+  2025-05-24 20:14:17 /favicon.ico ................................. ~ 0.02ms
+  2025-05-24 20:14:30 /dashboard/home ............................ ~ 500.30ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:18:26 /dashboard/home ............................ ~ 500.34ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:19:06 /dashboard/home ............................ ~ 500.33ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:24:39 /dashboard/home ............................ ~ 500.41ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:26:17 /dashboard/home ............................ ~ 500.30ms
+  2025-05-24 20:28:15 /dashboard/home ............................ ~ 500.33ms
+  2025-05-24 20:28:15 /js/filament/notifications/notifications.js?v=3.3.16.0  ~ 0.05ms
+  2025-05-24 20:28:15 /css/filament/support/support.css?v=3.3.16.0 . ~ 0.07ms
+  2025-05-24 20:28:15 /css/filament/filament/app.css?v=3.3.16.0 .... ~ 0.02ms
+  2025-05-24 20:28:15 /css/filament/forms/forms.css?v=3.3.16.0 ..... ~ 0.02ms
+  2025-05-24 20:28:15 /js/filament/support/support.js?v=3.3.16.0 ... ~ 0.02ms
+  2025-05-24 20:28:15 /js/filament/filament/echo.js?v=3.3.16.0 ..... ~ 0.03ms
+  2025-05-24 20:28:16 /js/filament/filament/app.js?v=3.3.16.0 ...... ~ 0.10ms
+  2025-05-24 20:28:16 /favicon.ico ................................. ~ 0.02ms
+  2025-05-24 20:29:45 /dashboard/home ............................ ~ 500.28ms
+  2025-05-24 20:30:21 /dashboard/home .............................. ~ 0.07ms
+  2025-05-24 20:30:23 /dashboard/home .............................. ~ 0.06ms
+  2025-05-24 20:30:33 /dashboard/home ............................ ~ 500.40ms
+  2025-05-24 20:32:06 /dashboard/home .............................. ~ 0.25ms
+  2025-05-24 20:32:06 /js/filament/notifications/notifications.js?v=3.3.16.0  ~ 0.07ms
+  2025-05-24 20:32:06 /css/filament/forms/forms.css?v=3.3.16.0 ..... ~ 0.02ms
+  2025-05-24 20:32:06 /css/filament/support/support.css?v=3.3.16.0 . ~ 0.07ms
+  2025-05-24 20:32:06 /js/filament/support/support.js?v=3.3.16.0 ... ~ 0.01ms
+  2025-05-24 20:32:06 /js/filament/filament/echo.js?v=3.3.16.0 ..... ~ 0.01ms
+  2025-05-24 20:32:06 /js/filament/filament/app.js?v=3.3.16.0 ...... ~ 0.01ms
+  2025-05-24 20:32:07 /favicon.ico ................................. ~ 0.07ms
+  2025-05-24 20:33:21 /dashboard/home .............................. ~ 0.09ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:34:16 /dashboard/home .............................. ~ 0.09ms
+  2025-05-24 20:34:16 /css/filament/forms/forms.css?v=3.3.16.0 ..... ~ 0.08ms
+  2025-05-24 20:34:16 /css/filament/support/support.css?v=3.3.16.0 . ~ 0.02ms
+  2025-05-24 20:34:16 /js/filament/notifications/notifications.js?v=3.3.16.0  ~ 0.08ms
+  2025-05-24 20:34:16 /js/filament/support/support.js?v=3.3.16.0 ... ~ 0.02ms
+  2025-05-24 20:34:16 /js/filament/filament/echo.js?v=3.3.16.0 ..... ~ 0.01ms
+  2025-05-24 20:34:17 /js/filament/filament/app.js?v=3.3.16.0 ...... ~ 0.01ms
+  2025-05-24 20:34:17 /dashboard/home .................................. ~ 1s
+  2025-05-24 20:34:18 /favicon.ico ................................. ~ 0.03ms
+  2025-05-24 20:35:10 /dashboard/home .............................. ~ 0.08ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:35:19 /dashboard/home .............................. ~ 0.09ms
+  2025-05-24 20:36:03 /dashboard/home .............................. ~ 0.07ms
+
+   INFO  Server running on [http://0.0.0.0:1388].  
+
+  Press Ctrl+C to stop the server
+
+  2025-05-24 20:36:14 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 20:36:19 /dashboard/companies ....................... ~ 500.28ms
+  2025-05-24 20:36:19 /storage/company-logos/01JW1MWQPPA5FN1NAQPWPR9J04.jpg  ~ 0.04ms
+  2025-05-24 20:36:20 /dashboard/projects ........................ ~ 500.27ms
+  2025-05-24 20:36:21 /dashboard/companies ......................... ~ 0.06ms
+  2025-05-24 20:36:21 /dashboard/home ............................ ~ 500.49ms
+  2025-05-24 20:36:46 /dashboard/home .............................. ~ 0.06ms
+  2025-05-24 20:36:49 /dashboard/home ............................ ~ 500.28ms
+  2025-05-24 20:37:48 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 20:38:36 /dashboard/home .............................. ~ 0.08ms
+  2025-05-24 20:38:57 /dashboard/home ............................ ~ 500.31ms
+  2025-05-24 20:39:07 /dashboard/home .............................. ~ 0.07ms
+  2025-05-24 20:40:03 /dashboard/home .............................. ~ 0.06ms

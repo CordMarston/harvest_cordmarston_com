@@ -1,0 +1,219 @@
+
+> dev
+> vite
+
+
+  VITE v6.3.5  ready in 435 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+8:02:53 PM [vite] (client) page reload resources/css/filament/dashboard/theme.css
+8:03:20 PM [vite] (client) hmr update /resources/css/app.css?direct, /resources/css/filament/dashboard/theme.css?direct
+8:04:37 PM [vite] (client) hmr update /resources/css/app.css?direct, /resources/css/filament/dashboard/theme.css?direct
+8:04:57 PM [vite] (client) page reload resources/css/filament/dashboard/tailwind.config.js
+8:04:57 PM [vite] (client) hmr update /resources/css/app.css?direct, /resources/css/filament/dashboard/theme.css?direct
+
+> dev
+> vite
+
+
+  VITE v6.3.5  ready in 429 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+
+> dev
+> vite
+
+
+  VITE v6.3.5  ready in 512 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+
+> dev
+> vite
+
+
+  VITE v6.3.5  ready in 769 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+8:10:45 PM [vite] full reload resources/views/filament/pages/home.blade.php
+8:11:05 PM [vite] full reload resources/views/filament/pages/home.blade.php
+8:11:19 PM [vite] full reload resources/views/filament/pages/home.blade.php
+8:11:47 PM [vite] vite.config.js changed, restarting server...
+8:11:48 PM [vite] server restarted.
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+
+> dev
+> vite
+
+
+  VITE v6.3.5  ready in 509 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+8:14:27 PM [vite] full reload resources/views/filament/pages/home.blade.php
+8:14:28 PM [vite] full reload resources/views/filament/pages/home.blade.php
+
+> dev
+> vite
+
+
+  VITE v6.3.5  ready in 534 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+
+> dev
+> vite
+
+
+  VITE v6.3.5  ready in 513 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+
+> dev
+> vite --debug
+
+
+  VITE v6.3.5  ready in 499 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+8:23:30 PM [vite] vite.config.js changed, restarting server...
+8:23:30 PM [vite] (client) Re-optimizing dependencies because vite config has changed
+8:23:30 PM [vite] server restarted.
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+8:23:52 PM [vite] vite.config.js changed, restarting server...
+8:23:52 PM [vite] (client) Re-optimizing dependencies because vite config has changed
+8:23:52 PM [vite] server restarted.
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+8:24:29 PM [vite] vite.config.js changed, restarting server...
+8:24:30 PM [vite] (client) Re-optimizing dependencies because vite config has changed
+8:24:30 PM [vite] server restarted.
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+
+> dev
+> vite --debug
+
+
+  VITE v6.3.5  ready in 253 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+
+> dev
+> vite --debug
+
+
+  VITE v6.3.5  ready in 226 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+8:33:20 PM [vite] vite.config.js changed, restarting server...
+8:33:20 PM [vite] vite.config.js changed, restarting server...
+8:33:20 PM [vite] server restarted.
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+
+> dev
+> vite --debug
+
+
+  VITE v6.3.5  ready in 249 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+
+> dev
+> vite --debug
+
+
+  VITE v6.3.5  ready in 240 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+
+> dev
+> vite --debug
+
+
+  VITE v6.3.5  ready in 193 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.20.0.17:5175/
+
+  LARAVEL v12.15.0  plugin v1.2.0
+
+  ➜  APP_URL: https://harvest.cordmarston.com
+8:36:46 PM [vite] (client) page reload resources/views/filament/pages/home.blade.php
+8:37:48 PM [vite] (client) page reload resources/views/filament/pages/home.blade.php
+8:38:35 PM [vite] (client) page reload resources/views/filament/pages/home.blade.php
+8:38:57 PM [vite] (client) page reload resources/views/filament/pages/home.blade.php
+8:39:07 PM [vite] (client) page reload resources/views/filament/pages/home.blade.php
+8:40:02 PM [vite] (client) page reload resources/views/filament/pages/home.blade.php

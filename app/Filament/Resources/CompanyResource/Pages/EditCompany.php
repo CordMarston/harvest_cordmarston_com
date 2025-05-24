@@ -16,4 +16,13 @@ class EditCompany extends EditRecord
             Actions\DeleteAction::make(),
         ];
     }
+
+    public function hasCombinedRelationManagerTabsWithContent(): bool
+    {
+        return true;
+    }
+    public function getContentTabIcon(): ?string
+    {
+        return 'heroicon-m-cog';
+    }
 }

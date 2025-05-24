@@ -16,4 +16,10 @@ class ListProjects extends ListRecords
             Actions\CreateAction::make(),
         ];
     }
+    
+    public function getContentTabIcon(): ?string
+    {
+        return 'heroicon-o-rectangle-stack';
+    }
+
 }

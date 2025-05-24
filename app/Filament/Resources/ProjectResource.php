@@ -17,20 +17,29 @@ class ProjectResource extends Resource
 {
     protected static ?string $model = Project::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
+    protected static ?string $navigationIcon = 'heroicon-o-briefcase';
 
     public static function form(Form $form): Form
     {
         return $form
             ->schema([
-                Forms\Components\Select::make('company_id')
-                    ->relationship('company', 'name')
-                    ->required(),
-                Forms\Components\TextInput::make('company_location_id')
-                    ->numeric(),
                 Forms\Components\TextInput::make('name')
                     ->required()
-                    ->maxLength(255),
+                    ->maxLength(255)
+                    ->columnSpan(2),
+                Forms\Components\Select::make('company_id')
+                    ->relationship('company', 'name')
+                    ->reactive()
+                    ->searchable()
+                    ->required(),
+                Forms\Components\Select::make('company_location_id')
+                    ->label('Location')
+                    ->placeholder('Select A Company First')
+                    ->relationship('location', 'name', fn ($query, $get) => $query->where('company_id', $get('company_id')))
+                    ->required()
+                    ->reactive()
+                    ->searchable()
+                    ->disabled(fn ($get) => $get('company_id') == null),
             ]);
     }
 
@@ -41,7 +50,7 @@ class ProjectResource extends Resource
                 Tables\Columns\TextColumn::make('company.name')
                     ->numeric()
                     ->sortable(),
-                Tables\Columns\TextColumn::make('company_location_id')
+                Tables\Columns\TextColumn::make('location.name')
                     ->numeric()
                     ->sortable(),
                 Tables\Columns\TextColumn::make('name')
