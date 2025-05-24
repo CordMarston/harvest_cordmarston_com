@@ -1,0 +1,27 @@
+services:
+  php:
+    container_name: harvest_cordmarston_com
+    build:
+      context: ./docker/php
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/var/www/html
+    networks:
+      - npmnetwork
+  nginx:
+    container_name: harvest_cordmarston_com_nginx
+    image: nginx:stable-alpine # Use a lightweight Nginx image
+    # Mount your Laravel project and the custom Nginx configuration
+    volumes:
+      - ./:/var/www/html
+      - ./docker/nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+    # Ensure PHP-FPM container starts before Nginx
+    depends_on:
+      - php
+    # Define a network for inter-container communication
+    networks:
+      - npmnetwork # Connects to the external proxy network
+networks:
+  npmnetwork:
+    external: true
+    driver: bridge
